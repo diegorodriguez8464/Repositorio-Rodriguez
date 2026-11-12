@@ -1,0 +1,8 @@
+streamlit
+supabase
+pandas
+Pillow
+toml
+easyocr
+opencv-python-headless
+numpy

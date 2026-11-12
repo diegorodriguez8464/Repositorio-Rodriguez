@@ -1,0 +1,14 @@
+# Credenciales: NUNCA deben subir al repositorio público
+.streamlit/secrets.toml
+secrets.toml
+.env
+
+# Entorno virtual y temporales de Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Datos descargados de la base
+base_datos/*.csv
+base_datos/*.xlsx
